@@ -1,4 +1,4 @@
-# Coursera MachineLearning
+# Coursera Machine Learning
 ## Programming Exercise 1: **Linear Regression**
 - part1: Simple Octave/MATLAB function<br/>
 - part2: Linear regression with one variable<br/>
