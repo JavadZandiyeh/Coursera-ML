@@ -30,7 +30,7 @@
 - Neural Networks
 - ** Model representation
 - ** Feedforward Propagation and Prediction
-# Programming Exercise 4: *Neural Networks Learning*
+## Programming Exercise 4: *Neural Networks Learning*
 - Neural Networks
 - ** Visualizing the data
 - ** Model representation
