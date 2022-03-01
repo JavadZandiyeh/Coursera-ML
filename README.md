@@ -30,3 +30,18 @@
 - Neural Networks
 - ** Model representation
 - ** Feedforward Propagation and Prediction
+# Programming Exercise 4: *Neural Networks Learning*
+- Neural Networks
+- ** Visualizing the data
+- ** Model representation
+- ** Feedforward and cost function
+- ** Regularized cost function
+- Backpropagation
+- ** Sigmoid gradient
+- ** Random initialization
+- ** Backpropagation
+- ** Gradient checking
+- ** Regularized Neural Networks
+- ** Learning parameters using fmincg
+- Visualizing the hidden layer
+- ** try out different learning settings
