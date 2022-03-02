@@ -1,4 +1,5 @@
 # Coursera Machine Learning
+- [course content](https://www.holehouse.org/mlclass/)
 ## Programming Exercise 1: *Linear Regression*
 - Simple Octave/MATLAB function
 - Linear regression with one variable
